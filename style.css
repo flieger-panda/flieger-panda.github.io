@@ -1,0 +1,13 @@
+body{
+background-color:AliceBlue;
+color:dimgrey;
+padding:10px;
+}
+#image{
+	float:left;
+}
+#description{
+	float:right;
+}#reviews{
+	clear:both;
+}
